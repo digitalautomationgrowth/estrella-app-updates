@@ -1,0 +1,5 @@
+Version 6.3 - Latest stable release
+- DHL API integration
+- AWB History with live tracking
+- INES-GST auto email
+- License tracking
