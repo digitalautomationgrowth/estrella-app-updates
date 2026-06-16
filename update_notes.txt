@@ -1,5 +1,3 @@
-Version 6.3 - Latest stable release
-- DHL API integration
-- AWB History with live tracking
-- INES-GST auto email
-- License tracking
+Version 6.5 - Latest stable release
+- Coo raw material file format updated
+- Multiple Invoices - DHL package dimensions error solved
