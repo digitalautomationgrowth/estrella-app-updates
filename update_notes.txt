@@ -1,4 +1,4 @@
-Version 6.9 - Latest stable release
+Version 6.9.1 - Latest stable release
 — Notify email default 
 — CIF customs value fixed 
 — Blank dimension fixed
