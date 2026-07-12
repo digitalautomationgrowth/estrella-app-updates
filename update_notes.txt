@@ -1,3 +1,4 @@
-Version 6.6 - Latest stable release
-- Decimal error fix in excel
-- Excel files format updated with .xls
+Version 6.9 - Latest stable release
+— Notify email default 
+— CIF customs value fixed 
+— Blank dimension fixed
