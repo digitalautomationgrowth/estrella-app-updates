@@ -1,1 +1,1 @@
-  6.9|https://github.com/digitalautomationgrowth/estrella-app-updates/releases/download/v6.9/Estrella_Invoice_Processor_v6_9.exe
+  6.9|https://github.com/digitalautomationgrowth/estrella-app-updates/releases/download/v6.9/Estrella_Invoice_Processor.exe
