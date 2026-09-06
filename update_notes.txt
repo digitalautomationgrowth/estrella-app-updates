@@ -1,4 +1,1 @@
-Version 6.9.1 - Latest stable release
-— Notify email default 
-— CIF customs value fixed 
-— Blank dimension fixed
+New Updated Version 6.9.2  Dated 07-09-2026
