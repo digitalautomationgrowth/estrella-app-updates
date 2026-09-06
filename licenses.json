@@ -1,7 +1,42 @@
 {
+  "66EF8FBED6DF0C64": {
+    "active": true,
+    "customer": "Estrella",
+    "expiry": "2027-04-20"
+  },
+  "78889218B7F38C90": {
+    "active": true,
+    "customer": "Estrella",
+    "expiry": "2027-04-20"
+  },
+  "92C008305979AA99": {
+    "active": true,
+    "customer": "SANJAY  FOR MEETING",
+    "expiry": "2026-07-09"
+  },
+  "CEA2E058764558E5": {
+    "active": true,
+    "customer": "SANJAY-PERSONAL LAPTOP",
+    "expiry": "2026-07-03"
+  },
+  "D711B33C7557919C": {
+    "active": true,
+    "customer": "MY",
+    "expiry": "2027-05-02"
+  },
+  "E8C0E8545393EE86": {
+    "active": true,
+    "customer": "Estrella",
+    "expiry": "2027-04-20"
+  },
   "EJL-2026-XXXX": {
+    "active": true,
     "customer": "Estrella Jewels LLP",
-    "expiry": "2026-12-31",
-    "active": true
+    "expiry": "2026-12-31"
+  },
+  "FC76334B84F59A8D": {
+    "active": false,
+    "customer": "DIGITALAG",
+    "expiry": "2026-05-07"
   }
 }
