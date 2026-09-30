@@ -1,2 +1,3 @@
-Updated New Version 6.9.5
-Email attachement Documnets  updated
+New Updated Version 6.9.6
+
+Email error fixed
