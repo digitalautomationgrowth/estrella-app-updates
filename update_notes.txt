@@ -1,1 +1,4 @@
-6.9.7|https://github.com/digitalautomationgrowth/estrella-app-updates/releases/download/v6.9.7/Estrella_Invoice_Processor.exe
+New Updated Version 6.9.7
+
+Earrings now show prs in Product Items
+AWB email dialog fixes
